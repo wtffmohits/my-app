@@ -1,0 +1,11 @@
+{
+  "/Analytics": "pages/Analytics.js",
+  "/Attendance": "pages/Attendance.js",
+  "/Auth": "pages/Auth.js",
+  "/Dashboard": "pages/Dashboard.js",
+  "/Index": "pages/Index.js",
+  "/NotFound": "pages/NotFound.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js"
+}

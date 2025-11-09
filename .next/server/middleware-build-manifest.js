@@ -1,0 +1,71 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/Analytics": [
+      "static/chunks/40c6b6f50b430710.js",
+      "static/chunks/2e9af46141e894cb.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/turbopack-c9258bc372731b6e.js"
+    ],
+    "/Attendance": [
+      "static/chunks/61c9cb956d28a26d.js",
+      "static/chunks/2e9af46141e894cb.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/turbopack-a72d57a9e628785c.js"
+    ],
+    "/Auth": [
+      "static/chunks/c5b492f5bcfce757.js",
+      "static/chunks/3975e79965a6198d.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/turbopack-f451635501f865d3.js"
+    ],
+    "/Dashboard": [
+      "static/chunks/d50f599d097e5f9c.js",
+      "static/chunks/2e9af46141e894cb.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/turbopack-0b712c1f2b10c78c.js"
+    ],
+    "/Index": [
+      "static/chunks/3e2f5c578c870400.js",
+      "static/chunks/9f8ba436d779c557.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/turbopack-205ffb5945a3e768.js"
+    ],
+    "/NotFound": [
+      "static/chunks/d9cbf7054fc3ccae.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/63b93ded6e818c39.js",
+      "static/chunks/turbopack-1f93b9ff9e31ce28.js"
+    ],
+    "/_app": [
+      "static/chunks/d9b5fb9fef0380bb.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/turbopack-c2bf98d7af7f94b3.js"
+    ],
+    "/_error": [
+      "static/chunks/5c948ca1671dc2fc.js",
+      "static/chunks/406c9e078dfafe3d.js",
+      "static/chunks/1d964d4ea0782703.js",
+      "static/chunks/turbopack-2980bd37bb5ab3cb.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
